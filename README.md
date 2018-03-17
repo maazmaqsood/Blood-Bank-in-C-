@@ -1,2 +1,2 @@
-# Blood-Bank-in-C-
-Final project for the course Software development. 
+# Blood-Bank-in-C#
+ Desktop application for Blood Bank management system in visual Studio using C# programming language.
